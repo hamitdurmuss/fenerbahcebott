@@ -3,8 +3,8 @@ import logging
 import sqlite3
 from telegram.ext import Updater, CommandHandler
 
-Token = ""
-chatid = ""
+Token = "1146265869:AAGubtjplMIDSN60mpg4UWVN-CsNxtmmgl8"
+chatid = "-1001181725603"
 delay = 60
 
 rss_dict = {}
