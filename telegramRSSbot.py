@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler
 
 Token = "1146265869:AAGubtjplMIDSN60mpg4UWVN-CsNxtmmgl8"
 chatid = "-1001181725603"
-delay = 60
+delay = 10
 
 rss_dict = {}
 
